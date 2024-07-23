@@ -27,7 +27,7 @@ Otherwise, you can open a command prompt (on Windows, you may need to select an 
 to the folder where you cloned this repository and run the following command:
 
 ```
-C:\Users\climate> conda env create -f environment.yml
+C:\Users\convert> conda env create -f environment.yml
 ```
 
 
