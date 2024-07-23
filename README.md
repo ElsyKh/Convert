@@ -12,7 +12,7 @@ Once you have these installed, __clone__ this repository to your computer by doi
 1. Open GitHub Desktop and select __File__ > __Clone Repository__. Select the __URL__ tab, then enter the URL for this 
    repository.
 2. Open __Git Bash__ (from the __Start__ menu), then navigate to your folder for this module.
-   Now, execute the following command: `git clone https://github.com/ElsyKh/convert`. You should see some messages
+   Now, execute the following command: `git clone https://github.com/ElsyKh/Convert`. You should see some messages
    about downloading/unpacking files, and the repository should be set up.
 3. You can also clone this repository by clicking the green "clone or download" button above.
 
